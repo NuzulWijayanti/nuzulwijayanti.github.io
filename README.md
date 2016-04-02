@@ -9,10 +9,11 @@
     www.tokopedia.com
     www.bukalapak.com
     www.lazada.co.id
+    www.elevenia.com
 
 3. Bagian-bagian dari website tersebut :
     - Header terdiri dari judul, berita terbaru, kotak pencarian
-    - Menu navigasi
-    - Body
-    - Footer
+    - Menu navigasi : kotak pencarian, menu login dan bantuan, judul situs
+    - Body : menu, link, image, side menu
+    - Footer : Hak cipta, arsip, sponsor
     
