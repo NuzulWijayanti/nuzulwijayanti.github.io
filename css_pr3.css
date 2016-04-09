@@ -1,5 +1,5 @@
 
-.div3 h2{background-color:grey;color:white;font-size:15px;text-align:right;font-family:calibri;}
+.div3,h2{background-color:grey;color:white;font-size:15px;text-align:right;font-family:calibri;}
 
-.div3 h1{color:white;font-size:30px;text-align:right;font-family:georgia;}
+.div3,h1{color:white;font-size:30px;text-align:right;font-family:georgia;}
  
